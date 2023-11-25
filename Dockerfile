@@ -7,5 +7,5 @@ COPY ./docs ./usr/share/nginx/html
 COPY docs/conf/nginx.conf ./etc/nginx/conf.conf
 COPY docs/conf/conf.d ./etc/nginx/conf.d
 
-EXPOSE 82
+EXPOSE 80
 
