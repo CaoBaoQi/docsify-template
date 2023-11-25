@@ -1,4 +1,3 @@
 * AboutMe
-  * [Github](https://github.com/cola777jz)
-  * [Gitee](https://gitee.com/cola777jz)
+  * [Github](https://github.com/CaoBaoQi)
 * [更新日志](CHANGELOG.md)
