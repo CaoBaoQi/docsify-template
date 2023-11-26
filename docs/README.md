@@ -1,6 +1,6 @@
 # Docsify-Template
 
-> Cola777jz-Docsify-Template
+> CaoBaoQi-Docsify-Template
 
 本部分只讲述 Docsify 的基本知识，有关项目的部署:
 - 使用 GithubPages 部署 TODO

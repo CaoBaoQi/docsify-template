@@ -8,5 +8,5 @@
 - Typora 拓展，代码块 （Success、Danger、Warn）
 - Docker 一键部署
 
-[GitHub](https://gitee.com/cola777jz)
+[GitHub](https://github.com/CaoBaoQi)
 [Get Started](#Docsify-Template)
