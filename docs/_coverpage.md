@@ -1,11 +1,11 @@
 ![logo](static/icon/icon.svg)
 
-# Project-Name <small>1.0.0</small>
+# Docsify-Template <small>1.0.0</small>
 
-> Description
+> CaoBaoQi-Docsify-Template
 
-- Feature 1
-- Feature 2
+- 拆箱即用  🍃
+- 功能扩展 (评论等)
 
 [GitHub](https://github.com/CaoBaoQi)
 [Get Started](#Docsify-Template)

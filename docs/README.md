@@ -1,10 +1,10 @@
-# Project-Name
+# Docsify-Template
 
-> **Hi my name is CaoBaoQi. I am a student who come from JinZhong University.** 
+> **🫡 Hi my name is `CaoBaoQi`. I am a student who come from `JinZhong University`.** 
 > 
-> **My majored is computer Science&Technology.**
+> **My majored is `Computer-Science&Technology`. 🧑‍💻**
 >
-> **I Like learning new things.**
+> **🍃I Like learning new things.**
 
 # AboutMe
 
