@@ -1,12 +1,11 @@
 ![logo](static/icon/icon.svg)
 
-# Docsify-Template <small>1.0.0</small>
+# Project-Name <small>1.0.0</small>
 
-> CaoBaoQi ` s docsify Template
+> Description
 
-- 支持匿名评论、集成哔哩哔哩表情
-- Typora 拓展，代码块 （Success、Danger、Warn）
-- Docker 一键部署
+- Feature 1
+- Feature 2
 
 [GitHub](https://github.com/CaoBaoQi)
 [Get Started](#Docsify-Template)
